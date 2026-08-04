@@ -2,7 +2,7 @@
 
 This is a full AI/ML project with a Flask web UI.
 
-## Features
+# Features
 
 - No manual dataset required
 - Synthetic dataset is generated automatically
@@ -10,7 +10,7 @@ This is a full AI/ML project with a Flask web UI.
 - Rule-based nutrition deficiency detection
 - Personalized diet plan recommendation
 
-## Project Structure
+# Project Structure
 
 - `app.py` - Flask app with web form
 - `src/train_model.py` - synthetic data generation + ML model training
@@ -18,13 +18,13 @@ This is a full AI/ML project with a Flask web UI.
 - `src/rule_engine.py` - deficiency detection and advice
 - `templates/index.html` - web UI template
 
-## Setup
+# Setup
 
 ```bash
 pip install -r requirements.txt
 ```
 
-## Run
+# Run
 
 ```bash
 python app.py
