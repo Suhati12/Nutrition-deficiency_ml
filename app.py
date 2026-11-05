@@ -1,6 +1,5 @@
 
 from __future__ import annotations
-
 from flask import Flask, render_template, request
 
 from src.recommend import generate_personalized_plan
